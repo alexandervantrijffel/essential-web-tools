@@ -20,6 +20,7 @@ Curated list of useful publically available tools for web hosting and developmen
 * [SSLLabs Test SSL server configuration](https://www.ssllabs.com/ssltest/)
 * [Generate SSL CAA record](https://sslmate.com/labs/caa/)
 * [Mail-Tester Test mail spammyness](https://www.mail-tester.com/)
+* [Test SPF policy for server ip](https://vamsoft.com/support/tools/spf-policy-tester)
 * [Test DMARC Record](https://mxtoolbox.com/dmarc.aspx)
 * [Test SPF and DKIM](https://www.mail-tester.com/spf-dkim-check)
 
