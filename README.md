@@ -4,6 +4,7 @@ Curated list of useful publically available tools for web hosting and developmen
 ## Various
 
 * [Google Lighthouse - test performance, quality, and correctness](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+* [Google Test My Site](https://testmysite.withgoogle.com) - mobile web site performance tester
 * [Broken links checker](http://www.brokenlinkcheck.com/broken-links.php)
 * [Test SMTP mail server](https://mxtoolbox.com/SuperTool.aspx?action=smtp)
 * [Mailinator - Dummy email addresses for testing sign ups](https://www.mailinator.com/)
