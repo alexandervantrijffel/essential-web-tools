@@ -7,7 +7,7 @@ Curated list of useful publically available tools for web hosting and developmen
 * [Broken links checker](http://www.brokenlinkcheck.com/broken-links.php)
 * [Test SMTP mail server](https://mxtoolbox.com/SuperTool.aspx?action=smtp)
 * [Mailinator](https://www.mailinator.com)  - Dummy email addresses for testing signups
-* [BuildWith](https://builtwith.com)  - Wich tech stack is used by a site
+* [BuiltWith](https://builtwith.com)  - Wich tech stack is used by a site
 
 ## Performance testing
 * [Google Page Speed Insights performance testing](https://developers.google.com/speed/pagespeed/insights/)
@@ -15,9 +15,12 @@ Curated list of useful publically available tools for web hosting and developmen
 * [Test web site performance from many locations in the world](https://www.dotcom-tools.com/web-server-performance-test.aspx)
 * [YSlow](http://yslow.org/)
 
-## SSL and Email DNS records testing and generation
+## Security testing
 * [SSLLabs Test SSL server configuration](https://www.ssllabs.com/ssltest/)
 * [Generate SSL CAA record](https://sslmate.com/labs/caa/)
+* [Webbkoll web data-protecting measures analytzer](https://webbkoll.dataskydd.net)
+
+## Email configuration testing and generation
 * [Mail-Tester Test mail spammyness](https://www.mail-tester.com/)
 * [Test SPF policy for server ip](https://vamsoft.com/support/tools/spf-policy-tester)
 * [Test DMARC Record](https://mxtoolbox.com/dmarc.aspx)
