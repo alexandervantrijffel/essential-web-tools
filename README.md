@@ -32,3 +32,6 @@ Curated list of useful publically available tools for web hosting and developmen
 
 ## Server guides
 * [NGINX Hardening Checklist](https://www.reddit.com/r/linux/comments/ao6jj4/nginx_hardening_checklist_printable_poster_a_with)
+
+## Performance improvement
+* [instant.page](https://instant.page) improve performance by prefetching pages on hover
